@@ -1,0 +1,6 @@
+framework module ViewPagerController {
+  umbrella header "ViewPagerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

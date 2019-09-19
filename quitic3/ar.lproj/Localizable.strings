@@ -1,0 +1,202 @@
+/*
+ Localizable.strings
+ quitic3
+ 
+ Created by APPLE on 7/18/18.
+ Copyright © 2018 DOT. All rights reserved.
+ */
+
+/* Class = "UIضع الكلمة المناسبة"; text = "All Categories"; ObjectID = "0NL-5X-dhc"; */
+"All Categories" = "جميع الفئات";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Celebrities"; ObjectID = "0g4-hK-VvV"; */
+"Celebrities" = "مشاهير";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "ضع الكلمة المناسبة"; ObjectID = "1G7-TH-uQe"; */
+"1G7-TH-uQe.text" = "ضع الكلمة المناسبة";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Video Tutorials"; ObjectID = "2y9-1r-5Ga"; */
+"Video Tutorials" = "دروس الفيديو";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "ضع الكلمة المناسبة"; ObjectID = "5pW-IQ-tbY"; */
+"5pW-IQ-tbY.text" = "ضع الكلمة المناسبة";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "ضع الكلمة المناسبة"; ObjectID = "6oM-vD-xSt"; */
+"6oM-vD-xSt.text" = "ضع الكلمة المناسبة";
+
+/* Class = "UITextField"; placeholder = "الاسم الاول"; ObjectID = "71U-UF-UPR"; */
+"First Name" = "الاسم الاول";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "علامة تجارية"; ObjectID = "7No-D5-Dna"; */
+"7No-D5-Dna.text" = "علامة تجارية";
+
+"Exclusive Brands" = "العلامات التجارية الحصرية";
+
+/* Class = "UIBarButtonبند"; title = "بند"; ObjectID = "7Y5-px-C0j"; */
+"7Y5-px-C0j.title" = "بند";
+
+/* Class = "UINavigationبند"; title = "Title"; ObjectID = "83d-Kc-yZd"; */
+"Title" = "عنوان";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Miu Miu"; ObjectID = "8fm-uq-I2Y"; */
+"Miu Miu" = "Miu Miu";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Trending Now"; ObjectID = "ARc-yz-QhL"; */
+"Trending Now" = "تتجه الآن";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "2 Reviews"; ObjectID = "DHb-hZ-JM9"; */
+"2 Reviews" = "2 تقييمات";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Valentino 30 ml"; ObjectID = "Dgd-u7-ehB"; */
+"Valentino 30 ml" = "فالنتينو 30 مل";
+
+/* Class = "UIBarButtonبند"; title = "بند"; ObjectID = "DtP-oo-C70"; */
+"DtP-oo-C70.title" = "بند";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Celebrities"; ObjectID = "Eq2-yI-EF2"; */
+"Celebrities" = "مشاهير";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "SKU"; ObjectID = "FGP-BC-1ol"; */
+"SKU" = "SKU";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "FSE-hL-pzU"; */
+"See all" = "اظهار الكل";
+
+/* Class = "UITextField"; placeholder = "Contact No"; ObjectID = "H6v-Ke-cej"; */
+"Contact No" = "رقم الاتصال";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "New Products"; ObjectID = "HP4-ma-9Dj"; */
+"New Products" = "منتجات جديدة";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Exclusive علامة تجاريةs"; ObjectID = "I1B-H1-TZJ"; */
+"I1B-H1-TZJ.text" = "العلامات التجارية الحصرية";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "I83-Wo-UCG"; */
+"Add to Cart" = "أضف إلى السلة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IYv-fk-E8n"; */
+"Button" = "زر";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "MKc-Hq-OBs"; */
+"See all" = "اظهار الكل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OII-xM-b6O"; */
+"Button" = "زر";
+
+/* Class = "UIButton"; normalTitle = "Add to Wishlist"; ObjectID = "PhL-uP-JXy"; */
+"Add to Wishlist" = "أضف إلى قائمة الامنيات";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "Pwx-7R-FfD"; */
+"Add to Cart" = "أضف إلى السلة";
+
+/* Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "Qe7-Co-B7v"; */
+"SignUp" = "سجل";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "QpP-6c-g8A"; */
+"See all" = "اظهار الكل";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Miu Miu starts with an elegant, sensual floral lily of the valley composed of real jasmine, real rose absolute, and synthetic green notes. The soft, fresh, ingénue scent is set against a deep earth-toned background: the wood and pepper of akigalawood, an extract of patchouli. The akigalawood adds a rich, brooding mystery to the subtle sparkle of the floral. The surprising combination feels natural and timeless flower and earth but the effect created by the multifaceted process is utterly contemporary."; ObjectID = "RJr-j7-J6Z"; */
+"Miu Miu starts with an elegant, sensual floral lily of the valley composed of real jasmine, real rose absolute, and synthetic green notes. The soft, fresh, ingénue scent is set against a deep earth-toned background: the wood and pepper of akigalawood, an extract of patchouli. The akigalawood adds a rich, brooding mystery to the subtle sparkle of the floral. The surprising combination feels natural and timeless flower and earth but the effect created by the multifaceted process is utterly contemporary." = "يبدأ Miu Miu بزهرة زهرية أنيقة من الوادي تتكون من الياسمين الحقيقي ، وردة حقيقية مطلقة ، وملاحظات خضراء صناعية. تم وضع رائحة ناعمة طازجة على أرضية عميقة ذات لون ترابي: خشب وفلفل أكيجالاوود ، مستخرج من الباتشولي. يضيف akigalawood غموضًا غنيًا بالبرقة إلى التألق الخفيف للأزهار. إن المجموعة المدهشة تشعر بالزهرة الطبيعية والأبدية والأرض ، لكن التأثير الذي أحدثته العملية المتعددة الوجوه معاصر تماما.";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "More Information"; ObjectID = "RaU-Z3-Gwf"; */
+"More Information" = "معلومات اكثر";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Qiotic Pick"; ObjectID = "SHr-n7-pRv"; */
+"SHr-n7-pRv.text" = "اختيار Qiotic";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "TJ9-SR-qGn"; */
+"TJ9-SR-qGn.placeholder" = "كلمه السر";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Errors"; ObjectID = "TOu-gI-uDE"; */
+"TOu-gI-uDE.text" = "أخطاء";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "WfG-4Q-f9o"; */
+"WfG-4Q-f9o.normalTitle" = "اظهار الكل";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "WxW-ei-mWj"; */
+"WxW-ei-mWj.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITabBarبند"; title = "بند"; ObjectID = "a8a-4h-oNX"; */
+"a8a-4h-oNX.title" = "بند";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "adj-qB-xsz"; */
+"adj-qB-xsz.placeholder" = "عنوان البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "amH-Yd-CNf"; */
+"amH-Yd-CNf.normalTitle" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "b1b-t6-ddB"; */
+"b1b-t6-ddB.normalTitle" = "اظهار الكل";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Miu Miu"; ObjectID = "dxo-fG-OSz"; */
+"dxo-fG-OSz.text" = "Miu Miu";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "013652"; ObjectID = "e2d-kh-aeD"; */
+"e2d-kh-aeD.text" = "013652";
+
+/* Class = "UITabBarبند"; title = "بند"; ObjectID = "eGe-aB-1uM"; */
+"eGe-aB-1uM.title" = "بند";
+
+/* Class = "UITabBarبند"; title = "Home"; ObjectID = "ela-Yb-br4"; */
+"ela-Yb-br4.title" = "الصفحة الرئيسية";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ev9-v2-MBs"; */
+"ev9-v2-MBs.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Already have an account"; ObjectID = "gpw-dP-n5F"; */
+"gpw-dP-n5F.normalTitle" = "هل لديك حساب";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "hcf-mF-2Jy"; */
+"hcf-mF-2Jy.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "hnW-G7-AMR"; */
+"hnW-G7-AMR.placeholder" = "الكنية";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Description"; ObjectID = "k93-Bt-681"; */
+"k93-Bt-681.text" = "وصف";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "علامة تجارية"; ObjectID = "kDU-xv-Z9w"; */
+"kDU-xv-Z9w.text" = "علامة تجارية";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "CELEBRITIES"; ObjectID = "mwA-D3-M3r"; */
+"mwA-D3-M3r.text" = "مشاهير";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "____________________________________________________"; ObjectID = "ngc-bC-FbV"; */
+"ngc-bC-FbV.text" = "____________________________________________________";
+
+/* Class = "UITextView"; text = "Creating an account means you're  okay with our Terms of Services, Privacy Policy and Refund Policy"; ObjectID = "o2O-se-swL"; */
+"o2O-se-swL.text" = "يعني إنشاء حساب أنك موافق على شروط الخدمة وسياسة الخصوصية وسياسة رد الأموال";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Miu Miu Perfumed Hair Mist\n30 ml"; ObjectID = "oKa-Bv-WmG"; */
+"oKa-Bv-WmG.text" = "ميو ميو معطر للشعر \ n30 مل";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "ضع الكلمة المناسبة"; ObjectID = "oXH-Wi-cHr"; */
+"oXH-Wi-cHr.text" = "ضع الكلمة المناسبة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qsr-lv-zMa"; */
+"qsr-lv-zMa.normalTitle" = "زر";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "16.0000 JOD"; ObjectID = "sy9-f0-gGe"; */
+"sy9-f0-gGe.text" = "16.0000 JOD";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "12,00.00 JOD"; ObjectID = "ufg-wc-peG"; */
+"ufg-wc-peG.text" = "12,00.00 JOD";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "|"; ObjectID = "wj1-2e-4Pv"; */
+"wj1-2e-4Pv.text" = "|";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "y8F-K2-HXI"; */
+"y8F-K2-HXI.placeholder" = "كلمه السر";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Login"; ObjectID = "y9H-bV-hof"; */
+"y9H-bV-hof.text" = "تسجيل الدخول";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "View In Progress"; ObjectID = "yXg-sL-lq9"; */
+"yXg-sL-lq9.text" = "عرض قيد التقدم";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "zbP-nz-ERM"; */
+"zbP-nz-ERM.normalTitle" = "اظهار الكل";
+
+/* Class = "UIضع الكلمة المناسبة"; text = "Shop the Look"; ObjectID = "zks-Lj-hwL"; */
+"zks-Lj-hwL.text" = "تسوق من النظرة";
+

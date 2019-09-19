@@ -1,0 +1,194 @@
+
+/* Class = "UILabel"; text = "All Categories"; ObjectID = "0NL-5X-dhc"; */
+"0NL-5X-dhc.text" = "All Categories";
+
+/* Class = "UILabel"; text = "Celebrities"; ObjectID = "0g4-hK-VvV"; */
+"0g4-hK-VvV.text" = "Celebrities";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1G7-TH-uQe"; */
+"1G7-TH-uQe.text" = "Label";
+
+/* Class = "UILabel"; text = "Video Tutorials"; ObjectID = "2y9-1r-5Ga"; */
+"2y9-1r-5Ga.text" = "Video Tutorials";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5pW-IQ-tbY"; */
+"5pW-IQ-tbY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6oM-vD-xSt"; */
+"6oM-vD-xSt.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "71U-UF-UPR"; */
+"71U-UF-UPR.placeholder" = "First Name";
+
+"Exclusive Brands" = "Exclusive Brands";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "7No-D5-Dna"; */
+"7No-D5-Dna.text" = "Brand";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "7Y5-px-C0j"; */
+"7Y5-px-C0j.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "83d-Kc-yZd"; */
+"83d-Kc-yZd.title" = "Title";
+
+/* Class = "UILabel"; text = "Miu Miu"; ObjectID = "8fm-uq-I2Y"; */
+"8fm-uq-I2Y.text" = "Miu Miu";
+
+/* Class = "UILabel"; text = "Trending Now"; ObjectID = "ARc-yz-QhL"; */
+"ARc-yz-QhL.text" = "Trending Now";
+
+/* Class = "UILabel"; text = "2 Reviews"; ObjectID = "DHb-hZ-JM9"; */
+"DHb-hZ-JM9.text" = "2 Reviews";
+
+/* Class = "UILabel"; text = "Valentino 30 ml"; ObjectID = "Dgd-u7-ehB"; */
+"Dgd-u7-ehB.text" = "Valentino 30 ml";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "DtP-oo-C70"; */
+"DtP-oo-C70.title" = "Item";
+
+/* Class = "UILabel"; text = "Celebrities"; ObjectID = "Eq2-yI-EF2"; */
+"Eq2-yI-EF2.text" = "Celebrities";
+
+/* Class = "UILabel"; text = "SKU"; ObjectID = "FGP-BC-1ol"; */
+"FGP-BC-1ol.text" = "SKU";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "FSE-hL-pzU"; */
+"FSE-hL-pzU.normalTitle" = "See all";
+
+/* Class = "UITextField"; placeholder = "Contact No"; ObjectID = "H6v-Ke-cej"; */
+"H6v-Ke-cej.placeholder" = "Contact No";
+
+/* Class = "UILabel"; text = "New Products"; ObjectID = "HP4-ma-9Dj"; */
+"HP4-ma-9Dj.text" = "New Products";
+
+/* Class = "UILabel"; text = "Exclusive Brands"; ObjectID = "I1B-H1-TZJ"; */
+"I1B-H1-TZJ.text" = "Exclusive Brands";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "I83-Wo-UCG"; */
+"I83-Wo-UCG.normalTitle" = "Add to Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IYv-fk-E8n"; */
+"IYv-fk-E8n.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "MKc-Hq-OBs"; */
+"MKc-Hq-OBs.normalTitle" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OII-xM-b6O"; */
+"OII-xM-b6O.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Add to Wishlist"; ObjectID = "PhL-uP-JXy"; */
+"PhL-uP-JXy.normalTitle" = "Add to Wishlist";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "Pwx-7R-FfD"; */
+"Pwx-7R-FfD.normalTitle" = "Add to Cart";
+
+/* Class = "UIButton"; normalTitle = "SignUp"; ObjectID = "Qe7-Co-B7v"; */
+"Qe7-Co-B7v.normalTitle" = "SignUp";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "QpP-6c-g8A"; */
+"QpP-6c-g8A.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "Miu Miu starts with an elegant, sensual floral lily of the valley composed of real jasmine, real rose absolute, and synthetic green notes. The soft, fresh, ingénue scent is set against a deep earth-toned background: the wood and pepper of akigalawood, an extract of patchouli. The akigalawood adds a rich, brooding mystery to the subtle sparkle of the floral. The surprising combination feels natural and timeless flower and earth but the effect created by the multifaceted process is utterly contemporary."; ObjectID = "RJr-j7-J6Z"; */
+"RJr-j7-J6Z.text" = "Miu Miu starts with an elegant, sensual floral lily of the valley composed of real jasmine, real rose absolute, and synthetic green notes. The soft, fresh, ingénue scent is set against a deep earth-toned background: the wood and pepper of akigalawood, an extract of patchouli. The akigalawood adds a rich, brooding mystery to the subtle sparkle of the floral. The surprising combination feels natural and timeless flower and earth but the effect created by the multifaceted process is utterly contemporary.";
+
+/* Class = "UILabel"; text = "More Information"; ObjectID = "RaU-Z3-Gwf"; */
+"RaU-Z3-Gwf.text" = "More Information";
+
+/* Class = "UILabel"; text = "Qiotic Pick"; ObjectID = "SHr-n7-pRv"; */
+"SHr-n7-pRv.text" = "Qiotic Pick";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "TJ9-SR-qGn"; */
+"TJ9-SR-qGn.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Errors"; ObjectID = "TOu-gI-uDE"; */
+"TOu-gI-uDE.text" = "Errors";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "WfG-4Q-f9o"; */
+"WfG-4Q-f9o.normalTitle" = "See all";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "WxW-ei-mWj"; */
+"WxW-ei-mWj.normalTitle" = "Login";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "a8a-4h-oNX"; */
+"a8a-4h-oNX.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "adj-qB-xsz"; */
+"adj-qB-xsz.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "amH-Yd-CNf"; */
+"amH-Yd-CNf.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "b1b-t6-ddB"; */
+"b1b-t6-ddB.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "Miu Miu"; ObjectID = "dxo-fG-OSz"; */
+"dxo-fG-OSz.text" = "Miu Miu";
+
+/* Class = "UILabel"; text = "013652"; ObjectID = "e2d-kh-aeD"; */
+"e2d-kh-aeD.text" = "013652";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "eGe-aB-1uM"; */
+"eGe-aB-1uM.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "ela-Yb-br4"; */
+"ela-Yb-br4.title" = "Home";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ev9-v2-MBs"; */
+"ev9-v2-MBs.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Already have an account"; ObjectID = "gpw-dP-n5F"; */
+"gpw-dP-n5F.normalTitle" = "Already have an account";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "hcf-mF-2Jy"; */
+"hcf-mF-2Jy.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "hnW-G7-AMR"; */
+"hnW-G7-AMR.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "k93-Bt-681"; */
+"k93-Bt-681.text" = "Description";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "kDU-xv-Z9w"; */
+"kDU-xv-Z9w.text" = "Brand";
+
+/* Class = "UILabel"; text = "CELEBRITIES"; ObjectID = "mwA-D3-M3r"; */
+"mwA-D3-M3r.text" = "CELEBRITIES";
+
+/* Class = "UILabel"; text = "____________________________________________________"; ObjectID = "ngc-bC-FbV"; */
+"ngc-bC-FbV.text" = "____________________________________________________";
+
+/* Class = "UITextView"; text = "Creating an account means you're  okay with our Terms of Services, Privacy Policy and Refund Policy"; ObjectID = "o2O-se-swL"; */
+"o2O-se-swL.text" = "Creating an account means you're  okay with our Terms of Services, Privacy Policy and Refund Policy";
+
+/* Class = "UILabel"; text = "Miu Miu Perfumed Hair Mist\n30 ml"; ObjectID = "oKa-Bv-WmG"; */
+"oKa-Bv-WmG.text" = "Miu Miu Perfumed Hair Mist\n30 ml";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oXH-Wi-cHr"; */
+"oXH-Wi-cHr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qsr-lv-zMa"; */
+"qsr-lv-zMa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "16.0000 JOD"; ObjectID = "sy9-f0-gGe"; */
+"sy9-f0-gGe.text" = "16.0000 JOD";
+
+/* Class = "UILabel"; text = "12,00.00 JOD"; ObjectID = "ufg-wc-peG"; */
+"ufg-wc-peG.text" = "12,00.00 JOD";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "wj1-2e-4Pv"; */
+"wj1-2e-4Pv.text" = "|";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "y8F-K2-HXI"; */
+"y8F-K2-HXI.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "y9H-bV-hof"; */
+"y9H-bV-hof.text" = "Login";
+
+/* Class = "UILabel"; text = "View In Progress"; ObjectID = "yXg-sL-lq9"; */
+"yXg-sL-lq9.text" = "View In Progress";
+
+/* Class = "UIButton"; normalTitle = "See all"; ObjectID = "zbP-nz-ERM"; */
+"zbP-nz-ERM.normalTitle" = "See all";
+
+/* Class = "UILabel"; text = "Shop the Look"; ObjectID = "zks-Lj-hwL"; */
+"zks-Lj-hwL.text" = "Shop the Look";
